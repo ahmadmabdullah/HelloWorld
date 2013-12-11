@@ -17,6 +17,8 @@ int main(void) {
 	puts("Hello Git!!");
 	//Another line to make sure everything is working correct
 	puts("Another comment for last commit");
+	//Last comment to make sure configuration was saved
+	puts("Last comment");
 	return 1;
 }
 
